@@ -6,8 +6,11 @@ This project presents an Exploratory Data Analysis (EDA) on the IMDb movie datas
 📁 Dataset Information
 
 Source: [IMDb Dataset on Kaggle](https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data)
+
 Dataset Name: IMDB-Movie-Data.csv
+
 Rows: 1000 movies
+
 Columns: 12 features including Title, Genre, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascore
 
 
