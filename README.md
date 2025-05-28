@@ -10,4 +10,4 @@ Dataset Name: IMDB-Movie-Data.csv
 Rows: 1000 movies
 Columns: 12 features including Title, Genre, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascore
 
-https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data/data
+
