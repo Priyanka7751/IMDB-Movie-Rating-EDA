@@ -6,8 +6,11 @@ This project presents an Exploratory Data Analysis (EDA) on the IMDb movie datas
 📁 Dataset Information
 
 **Source**: [IMDb Dataset on Kaggle](https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data)
+
 **Dataset Name**: IMDB-Movie-Data.csv
+
 **Rows**: 1000 movies
+
 **Columns**: 12 features including Title, Genre, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascore
 
 🛠️ Tools & Libraries Used
@@ -24,16 +27,16 @@ This project presents an Exploratory Data Analysis (EDA) on the IMDb movie datas
 3. Identified movies with longest runtimes (≥180 min)
 4. Found the year with highest:
                                  4.1 Average voting
-                                 4.2    Average revenue
-Average movie rating
-Top 10:
-Lengthiest movies
-Highest-rated movies and their directors
-Highest revenue-generating movies
-Most popular actor across movies
-Most common genres and genre-wise revenue/rating analysis
-Categorized movies into Excellent, Good, and Average based on ratings
-Visualized relationships between:
-Rating vs Revenue
-Number of movies released per year
-Revenue and rating distribution
+                                 4.2 Average revenue 
+                                 4.3 Average movie rating
+5. Top 10:
+                                 5.1 Lengthiest movies
+                                 5.2 Highest-rated movies and their directors
+                                 5.3 Highest revenue-generating movies
+6. Most popular actor across movies
+7. Most common genres and genre-wise revenue/rating analysis
+8. Categorized movies into Excellent, Good, and Average based on ratings
+9. Visualized relationships between:
+                                 9.1 Rating vs Revenue
+                                 9.2 Number of movies released per year
+                                 9.3 Revenue and rating distribution
